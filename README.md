@@ -17,7 +17,7 @@
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3.9%2B-blue">
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-2.x-orange">
-  <img alt="License" src="https://img.shields.io/badge/License-MiT-lightgrey">
+  <img alt="License" src="https://img.shields.io/badge/License-MIT-lightgrey">
 </p>
 
 </div>
