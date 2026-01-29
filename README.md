@@ -22,6 +22,8 @@
 
 </div>
 
+Contact: Pengyuc@email.sc.edu
+
 ---
 
 ## Overview
@@ -208,3 +210,28 @@ ax[4].axis("off")
 plt.tight_layout()
 plt.show()
 ```
+
+
+<h3>Comparison with BAMFOREST Ground Truth</h3>
+
+<div align="center">
+  <img src="BAMFOREST.png" width="90%">
+</div>
+
+<p align="center">
+  <i>
+  Zero-shot instance segmentation results compared with BAMFOREST ground truth annotations.
+  </i>
+</p>
+
+<h3>Comparison with Supervised Baselines</h3>
+
+<div align="center">
+  <img src="comparison.png" width="90%">
+</div>
+
+<p align="center">
+  <i>
+  Qualitative comparison with supervised baselines (Mask R-CNN and Detectree2).
+  </i>
+</p>
