@@ -22,7 +22,7 @@
 
 </div>
 
-Contact: Pengyuc@email.sc.edu
+Contact: Pengyuc@email.sc.edu; Paper Link: https://www.arxiv.org/abs/2602.00470
 
 ---
 
@@ -230,8 +230,23 @@ plt.show()
   <img src="comparison.png" width="90%">
 </div>
 
+
 <p align="center">
   <i>
   Qualitative comparison with supervised baselines (Mask R-CNN and Detectree2).
   </i>
 </p>
+
+
+### Cite
+```
+@misc{chen2026zstreesegzeroshotframeworktree,
+      title={ZS-TreeSeg: A Zero-Shot Framework for Tree Crown Instance Segmentation}, 
+      author={Pengyu Chen and Fangzheng Lyu and Sicheng Wang and Cuizhen Wang},
+      year={2026},
+      eprint={2602.00470},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2602.00470}, 
+}
+```
