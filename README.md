@@ -1,7 +1,7 @@
 <div align="center">
 
 <p>
-  <h1>Zero-Shot Tree Crown Instance Segmentation via Semantic-Guided Flow</h1>
+  <h1>FG-TreeSeg: Flow-Guided Tree Crown Segmentation without Instance Annotations</h1>
 </p>
 
 <p>
@@ -22,7 +22,7 @@
 
 </div>
 
-Contact: Pengyuc@email.sc.edu; Paper Link: https://www.arxiv.org/abs/2602.00470
+Contact: Pengyuc@email.sc.edu; Paper Link: https://ieeexplore.ieee.org/document/11520829; ArXiv: https://www.arxiv.org/abs/2602.00470
 
 ---
 
