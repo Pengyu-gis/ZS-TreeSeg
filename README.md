@@ -240,13 +240,15 @@ plt.show()
 
 ### Cite
 ```
-@misc{chen2026zstreesegzeroshotframeworktree,
-      title={ZS-TreeSeg: A Zero-Shot Framework for Tree Crown Instance Segmentation}, 
-      author={Pengyu Chen and Fangzheng Lyu and Sicheng Wang and Cuizhen Wang},
-      year={2026},
-      eprint={2602.00470},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2602.00470}, 
-}
+@ARTICLE{11520829,
+  author={Chen, Pengyu and Lyu, Fangzheng and Wang, Sicheng and Wang, Cuizhen},
+  journal={IEEE Geoscience and Remote Sensing Letters}, 
+  title={FG-TreeSeg: Flow-Guided Tree Crown Segmentation without Instance Annotations}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Modeling;Trees (botanical);Vegetation;Fluid flow;Training;Instance segmentation;Remote sensing;Pixel;Annotations;Visualization;Instance segmentation;tree crown delineation;foundation model;GeoAI},
+  doi={10.1109/LGRS.2026.3693969}}
+
 ```
